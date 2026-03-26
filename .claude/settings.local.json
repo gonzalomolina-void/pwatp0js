@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:pwa-js-25-oebj.vercel.app)",
+      "Bash(xxd:*)",
+      "Bash(dir:*)"
+    ]
+  }
+}
